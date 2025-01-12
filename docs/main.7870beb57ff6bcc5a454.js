@@ -1,0 +1,1 @@
+(()=>{"use strict";var e,t;e="Alvaro",(t=document.createElement("h1")).innerText="Hola ".concat(e,", que tal todo?"),document.body.append(t)})();
